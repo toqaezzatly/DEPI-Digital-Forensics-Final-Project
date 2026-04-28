@@ -1,0 +1,4 @@
+[Wed Apr 15 06:26:35.399463 2026] [mpm_prefork:notice] [pid 1055] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed Apr 15 06:26:35.399559 2026] [core:notice] [pid 1055] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 28 07:20:44.384820 2026] [mpm_prefork:notice] [pid 1251] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Apr 28 07:20:44.485231 2026] [core:notice] [pid 1251] AH00094: Command line: '/usr/sbin/apache2'

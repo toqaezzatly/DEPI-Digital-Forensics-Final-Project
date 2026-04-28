@@ -1,0 +1,342 @@
+Apr 12 06:47:01 labvm CRON[37841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 06:47:01 labvm CRON[37841]: pam_unix(cron:session): session closed for user root
+Apr 12 07:09:01 labvm CRON[38009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:09:01 labvm CRON[38009]: pam_unix(cron:session): session closed for user root
+Apr 12 07:17:01 labvm CRON[38132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:17:01 labvm CRON[38132]: pam_unix(cron:session): session closed for user root
+Apr 12 07:30:01 labvm CRON[38226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:30:01 labvm CRON[38226]: pam_unix(cron:session): session closed for user root
+Apr 12 07:33:01 labvm CRON[38256]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:33:01 labvm CRON[38256]: pam_unix(cron:session): session closed for user root
+Apr 12 07:39:01 labvm CRON[38304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:39:01 labvm CRON[38304]: pam_unix(cron:session): session closed for user root
+Apr 12 08:09:01 labvm CRON[38569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:09:01 labvm CRON[38569]: pam_unix(cron:session): session closed for user root
+Apr 12 08:17:01 labvm CRON[38679]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:17:01 labvm CRON[38679]: pam_unix(cron:session): session closed for user root
+Apr 12 08:30:01 labvm CRON[38787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:30:01 labvm CRON[38787]: pam_unix(cron:session): session closed for user root
+Apr 12 08:39:01 labvm CRON[38863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:39:01 labvm CRON[38863]: pam_unix(cron:session): session closed for user root
+Apr 12 09:09:01 labvm CRON[39157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:09:01 labvm CRON[39157]: pam_unix(cron:session): session closed for user root
+Apr 12 09:17:01 labvm CRON[39270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:17:01 labvm CRON[39270]: pam_unix(cron:session): session closed for user root
+Apr 12 09:30:01 labvm CRON[39364]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:30:01 labvm CRON[39364]: pam_unix(cron:session): session closed for user root
+Apr 12 09:39:01 labvm CRON[39451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:39:01 labvm CRON[39451]: pam_unix(cron:session): session closed for user root
+Apr 12 10:09:01 labvm CRON[39714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:09:01 labvm CRON[39714]: pam_unix(cron:session): session closed for user root
+Apr 12 10:17:01 labvm CRON[39829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:17:01 labvm CRON[39829]: pam_unix(cron:session): session closed for user root
+Apr 12 10:30:01 labvm CRON[39923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:30:01 labvm CRON[39923]: pam_unix(cron:session): session closed for user root
+Apr 12 10:39:02 labvm CRON[40003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:39:02 labvm CRON[40003]: pam_unix(cron:session): session closed for user root
+Apr 12 11:09:01 labvm CRON[40284]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:09:01 labvm CRON[40284]: pam_unix(cron:session): session closed for user root
+Apr 12 11:17:01 labvm CRON[40412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:17:01 labvm CRON[40412]: pam_unix(cron:session): session closed for user root
+Apr 12 11:30:01 labvm CRON[40506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:30:01 labvm CRON[40506]: pam_unix(cron:session): session closed for user root
+Apr 12 11:39:01 labvm CRON[40584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:39:01 labvm CRON[40584]: pam_unix(cron:session): session closed for user root
+Apr 12 12:09:01 labvm CRON[40848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:09:01 labvm CRON[40848]: pam_unix(cron:session): session closed for user root
+Apr 12 12:17:01 labvm CRON[40969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:17:01 labvm CRON[40969]: pam_unix(cron:session): session closed for user root
+Apr 12 13:23:22 labvm CRON[41146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:23:22 labvm CRON[41146]: pam_unix(cron:session): session closed for user root
+Apr 12 13:30:01 labvm CRON[41189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:30:01 labvm CRON[41189]: pam_unix(cron:session): session closed for user root
+Apr 12 13:39:01 labvm CRON[41253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:39:01 labvm CRON[41253]: pam_unix(cron:session): session closed for user root
+Apr 12 14:09:01 labvm CRON[41442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:09:01 labvm CRON[41442]: pam_unix(cron:session): session closed for user root
+Apr 12 14:17:01 labvm CRON[41545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:17:01 labvm CRON[41545]: pam_unix(cron:session): session closed for user root
+Apr 12 14:30:01 labvm CRON[41642]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:30:01 labvm CRON[41642]: pam_unix(cron:session): session closed for user root
+Apr 12 14:39:01 labvm CRON[41715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:39:01 labvm CRON[41715]: pam_unix(cron:session): session closed for user root
+Apr 12 15:09:01 labvm CRON[41994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:09:01 labvm CRON[41994]: pam_unix(cron:session): session closed for user root
+Apr 12 15:17:01 labvm CRON[42119]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:17:01 labvm CRON[42119]: pam_unix(cron:session): session closed for user root
+Apr 12 15:30:01 labvm CRON[42215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:30:01 labvm CRON[42215]: pam_unix(cron:session): session closed for user root
+Apr 12 15:39:01 labvm CRON[42293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:39:01 labvm CRON[42293]: pam_unix(cron:session): session closed for user root
+Apr 12 16:09:01 labvm CRON[42559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:09:01 labvm CRON[42559]: pam_unix(cron:session): session closed for user root
+Apr 12 16:17:01 labvm CRON[42684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:17:02 labvm CRON[42684]: pam_unix(cron:session): session closed for user root
+Apr 12 16:30:01 labvm CRON[42779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:30:01 labvm CRON[42779]: pam_unix(cron:session): session closed for user root
+Apr 12 16:39:01 labvm CRON[42857]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:39:01 labvm CRON[42857]: pam_unix(cron:session): session closed for user root
+Apr 12 17:09:01 labvm CRON[43139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:09:01 labvm CRON[43139]: pam_unix(cron:session): session closed for user root
+Apr 12 17:17:01 labvm CRON[43268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:17:01 labvm CRON[43268]: pam_unix(cron:session): session closed for user root
+Apr 12 17:30:01 labvm CRON[43365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:30:01 labvm CRON[43365]: pam_unix(cron:session): session closed for user root
+Apr 12 17:39:01 labvm CRON[43438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:39:01 labvm CRON[43438]: pam_unix(cron:session): session closed for user root
+Apr 12 18:09:01 labvm CRON[43703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:09:01 labvm CRON[43703]: pam_unix(cron:session): session closed for user root
+Apr 12 18:17:01 labvm CRON[43829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:17:01 labvm CRON[43829]: pam_unix(cron:session): session closed for user root
+Apr 12 18:30:02 labvm CRON[43924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:30:02 labvm CRON[43924]: pam_unix(cron:session): session closed for user root
+Apr 12 18:39:01 labvm CRON[44000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:39:01 labvm CRON[44000]: pam_unix(cron:session): session closed for user root
+Apr 12 19:09:01 labvm CRON[44265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:09:01 labvm CRON[44265]: pam_unix(cron:session): session closed for user root
+Apr 12 19:17:01 labvm CRON[44419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:17:01 labvm CRON[44419]: pam_unix(cron:session): session closed for user root
+Apr 12 19:30:01 labvm CRON[44515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:30:01 labvm CRON[44515]: pam_unix(cron:session): session closed for user root
+Apr 12 19:39:01 labvm CRON[44579]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:39:01 labvm CRON[44579]: pam_unix(cron:session): session closed for user root
+Apr 12 20:09:01 labvm CRON[44882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:09:01 labvm CRON[44882]: pam_unix(cron:session): session closed for user root
+Apr 12 20:17:01 labvm CRON[45000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:17:01 labvm CRON[45000]: pam_unix(cron:session): session closed for user root
+Apr 12 20:30:02 labvm CRON[45133]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:30:02 labvm CRON[45133]: pam_unix(cron:session): session closed for user root
+Apr 12 20:39:01 labvm CRON[45208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:39:01 labvm CRON[45208]: pam_unix(cron:session): session closed for user root
+Apr 12 21:09:01 labvm CRON[45494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 21:09:01 labvm CRON[45494]: pam_unix(cron:session): session closed for user root
+Apr 12 21:17:01 labvm CRON[45612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 21:17:01 labvm CRON[45612]: pam_unix(cron:session): session closed for user root
+Apr 13 03:09:01 labvm CRON[46182]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:09:01 labvm CRON[46182]: pam_unix(cron:session): session closed for user root
+Apr 13 03:10:01 labvm CRON[46270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:10:01 labvm CRON[46270]: pam_unix(cron:session): session closed for user root
+Apr 13 03:17:01 labvm CRON[46305]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:17:01 labvm CRON[46305]: pam_unix(cron:session): session closed for user root
+Apr 13 03:39:01 labvm CRON[46461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:39:01 labvm CRON[46461]: pam_unix(cron:session): session closed for user root
+Apr 13 04:09:01 labvm CRON[46741]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:09:01 labvm CRON[46741]: pam_unix(cron:session): session closed for user root
+Apr 13 04:17:01 labvm CRON[46853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:17:01 labvm CRON[46853]: pam_unix(cron:session): session closed for user root
+Apr 13 04:39:01 labvm CRON[47024]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:39:01 labvm CRON[47024]: pam_unix(cron:session): session closed for user root
+Apr 13 05:09:01 labvm CRON[47277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:09:01 labvm CRON[47277]: pam_unix(cron:session): session closed for user root
+Apr 13 05:17:01 labvm CRON[47403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:17:01 labvm CRON[47403]: pam_unix(cron:session): session closed for user root
+Apr 13 05:39:01 labvm CRON[47576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:39:01 labvm CRON[47576]: pam_unix(cron:session): session closed for user root
+Apr 13 07:56:21 labvm CRON[47835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:56:21 labvm CRON[47835]: pam_unix(cron:session): session closed for user root
+Apr 13 07:56:21 labvm CRON[47837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:56:21 labvm CRON[47837]: pam_unix(cron:session): session closed for user root
+Apr 13 07:56:21 labvm CRON[47839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:56:21 labvm CRON[47839]: pam_unix(cron:session): session closed for user root
+Apr 13 08:09:01 labvm CRON[47951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:09:01 labvm CRON[47951]: pam_unix(cron:session): session closed for user root
+Apr 13 08:17:01 labvm CRON[48075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:17:01 labvm CRON[48075]: pam_unix(cron:session): session closed for user root
+Apr 13 08:30:01 labvm CRON[48173]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:30:01 labvm CRON[48173]: pam_unix(cron:session): session closed for user root
+Apr 13 08:39:01 labvm CRON[48248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:39:01 labvm CRON[48248]: pam_unix(cron:session): session closed for user root
+Apr 13 10:56:02 labvm CRON[48622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 10:56:02 labvm CRON[48622]: pam_unix(cron:session): session closed for user root
+Apr 13 10:56:02 labvm CRON[48624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 10:56:02 labvm CRON[48624]: pam_unix(cron:session): session closed for user root
+Apr 13 11:09:01 labvm CRON[48730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:09:01 labvm CRON[48730]: pam_unix(cron:session): session closed for user root
+Apr 13 11:17:01 labvm CRON[48839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:17:01 labvm CRON[48839]: pam_unix(cron:session): session closed for user root
+Apr 13 11:30:01 labvm CRON[48935]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:30:01 labvm CRON[48935]: pam_unix(cron:session): session closed for user root
+Apr 13 11:39:01 labvm CRON[48995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:39:01 labvm CRON[48995]: pam_unix(cron:session): session closed for user root
+Apr 13 12:17:01 labvm CRON[49311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:17:01 labvm CRON[49311]: pam_unix(cron:session): session closed for user root
+Apr 13 12:30:02 labvm CRON[49425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:30:02 labvm CRON[49425]: pam_unix(cron:session): session closed for user root
+Apr 13 12:39:01 labvm CRON[49543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:39:01 labvm CRON[49543]: pam_unix(cron:session): session closed for user root
+Apr 13 13:09:01 labvm CRON[49838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:09:01 labvm CRON[49838]: pam_unix(cron:session): session closed for user root
+Apr 13 13:17:01 labvm CRON[49907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:17:01 labvm CRON[49907]: pam_unix(cron:session): session closed for user root
+Apr 13 13:30:01 labvm CRON[50000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:30:01 labvm CRON[50000]: pam_unix(cron:session): session closed for user root
+Apr 13 13:39:01 labvm CRON[50140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:39:01 labvm CRON[50140]: pam_unix(cron:session): session closed for user root
+Apr 13 14:09:01 labvm CRON[50419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:09:01 labvm CRON[50419]: pam_unix(cron:session): session closed for user root
+Apr 13 14:17:01 labvm CRON[50482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:17:01 labvm CRON[50482]: pam_unix(cron:session): session closed for user root
+Apr 13 14:30:01 labvm CRON[50578]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:30:01 labvm CRON[50578]: pam_unix(cron:session): session closed for user root
+Apr 13 14:39:01 labvm CRON[50715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:39:01 labvm CRON[50715]: pam_unix(cron:session): session closed for user root
+Apr 13 19:09:01 labvm CRON[50924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:09:01 labvm CRON[50924]: pam_unix(cron:session): session closed for user root
+Apr 13 19:17:01 labvm CRON[51053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:17:01 labvm CRON[51053]: pam_unix(cron:session): session closed for user root
+Apr 13 19:30:01 labvm CRON[51148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:30:01 labvm CRON[51148]: pam_unix(cron:session): session closed for user root
+Apr 13 19:39:01 labvm CRON[51225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:39:01 labvm CRON[51225]: pam_unix(cron:session): session closed for user root
+Apr 13 20:09:01 labvm CRON[51507]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:09:01 labvm CRON[51507]: pam_unix(cron:session): session closed for user root
+Apr 13 20:17:01 labvm CRON[51631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:17:01 labvm CRON[51631]: pam_unix(cron:session): session closed for user root
+Apr 13 20:30:01 labvm CRON[51725]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:30:01 labvm CRON[51725]: pam_unix(cron:session): session closed for user root
+Apr 13 20:39:01 labvm CRON[51785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:39:01 labvm CRON[51785]: pam_unix(cron:session): session closed for user root
+Apr 13 21:09:01 labvm CRON[52063]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 21:09:02 labvm CRON[52063]: pam_unix(cron:session): session closed for user root
+Apr 13 21:17:01 labvm CRON[52189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 21:17:01 labvm CRON[52189]: pam_unix(cron:session): session closed for user root
+Apr 14 04:09:01 labvm CRON[52564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:09:01 labvm CRON[52564]: pam_unix(cron:session): session closed for user root
+Apr 14 04:17:01 labvm CRON[52695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:17:01 labvm CRON[52695]: pam_unix(cron:session): session closed for user root
+Apr 14 04:39:01 labvm CRON[52887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:39:01 labvm CRON[52887]: pam_unix(cron:session): session closed for user root
+Apr 14 07:45:01 labvm CRON[53244]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:45:01 labvm CRON[53244]: pam_unix(cron:session): session closed for user root
+Apr 14 07:45:01 labvm CRON[53246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:45:02 labvm CRON[53246]: pam_unix(cron:session): session closed for user root
+Apr 14 07:45:02 labvm CRON[53248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:45:02 labvm CRON[53248]: pam_unix(cron:session): session closed for user root
+Apr 14 08:09:01 labvm CRON[53430]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:09:01 labvm CRON[53430]: pam_unix(cron:session): session closed for user root
+Apr 14 08:17:01 labvm CRON[53556]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:17:01 labvm CRON[53556]: pam_unix(cron:session): session closed for user root
+Apr 14 08:30:01 labvm CRON[53650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:30:01 labvm CRON[53650]: pam_unix(cron:session): session closed for user root
+Apr 14 08:39:01 labvm CRON[53726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:39:01 labvm CRON[53726]: pam_unix(cron:session): session closed for user root
+Apr 14 09:09:01 labvm CRON[53978]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:09:01 labvm CRON[53978]: pam_unix(cron:session): session closed for user root
+Apr 14 09:17:01 labvm CRON[54105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:17:01 labvm CRON[54105]: pam_unix(cron:session): session closed for user root
+Apr 14 09:30:01 labvm CRON[54198]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:30:01 labvm CRON[54198]: pam_unix(cron:session): session closed for user root
+Apr 14 09:39:02 labvm CRON[54273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:39:02 labvm CRON[54273]: pam_unix(cron:session): session closed for user root
+Apr 14 10:09:01 labvm CRON[54563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:09:01 labvm CRON[54563]: pam_unix(cron:session): session closed for user root
+Apr 14 10:17:01 labvm CRON[54690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:17:01 labvm CRON[54690]: pam_unix(cron:session): session closed for user root
+Apr 14 10:30:01 labvm CRON[54785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:30:01 labvm CRON[54785]: pam_unix(cron:session): session closed for user root
+Apr 14 10:39:01 labvm CRON[54859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:39:01 labvm CRON[54859]: pam_unix(cron:session): session closed for user root
+Apr 14 11:09:01 labvm CRON[55123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:09:01 labvm CRON[55123]: pam_unix(cron:session): session closed for user root
+Apr 14 11:17:01 labvm CRON[55234]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:17:01 labvm CRON[55234]: pam_unix(cron:session): session closed for user root
+Apr 14 11:30:01 labvm CRON[55330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:30:01 labvm CRON[55330]: pam_unix(cron:session): session closed for user root
+Apr 14 11:39:01 labvm CRON[55404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:39:01 labvm CRON[55404]: pam_unix(cron:session): session closed for user root
+Apr 14 12:09:01 labvm CRON[55686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:09:01 labvm CRON[55686]: pam_unix(cron:session): session closed for user root
+Apr 14 12:17:01 labvm CRON[55800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:17:01 labvm CRON[55800]: pam_unix(cron:session): session closed for user root
+Apr 14 12:30:01 labvm CRON[55896]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:30:01 labvm CRON[55896]: pam_unix(cron:session): session closed for user root
+Apr 14 12:39:01 labvm CRON[55973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:39:01 labvm CRON[55973]: pam_unix(cron:session): session closed for user root
+Apr 14 13:09:01 labvm CRON[56240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:09:01 labvm CRON[56240]: pam_unix(cron:session): session closed for user root
+Apr 14 13:17:01 labvm CRON[56366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:17:01 labvm CRON[56366]: pam_unix(cron:session): session closed for user root
+Apr 14 13:30:01 labvm CRON[56462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:30:01 labvm CRON[56462]: pam_unix(cron:session): session closed for user root
+Apr 14 13:39:01 labvm CRON[56543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:39:01 labvm CRON[56543]: pam_unix(cron:session): session closed for user root
+Apr 14 14:09:01 labvm CRON[56826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:09:01 labvm CRON[56826]: pam_unix(cron:session): session closed for user root
+Apr 14 14:17:01 labvm CRON[56949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:17:01 labvm CRON[56949]: pam_unix(cron:session): session closed for user root
+Apr 14 14:30:01 labvm CRON[57043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:30:01 labvm CRON[57043]: pam_unix(cron:session): session closed for user root
+Apr 14 14:39:01 labvm CRON[57158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:39:01 labvm CRON[57158]: pam_unix(cron:session): session closed for user root
+Apr 14 15:09:01 labvm CRON[57381]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:09:01 labvm CRON[57381]: pam_unix(cron:session): session closed for user root
+Apr 14 15:17:01 labvm CRON[57509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:17:01 labvm CRON[57509]: pam_unix(cron:session): session closed for user root
+Apr 14 15:30:01 labvm CRON[57590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:30:01 labvm CRON[57590]: pam_unix(cron:session): session closed for user root
+Apr 14 15:39:01 labvm CRON[57664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:39:01 labvm CRON[57664]: pam_unix(cron:session): session closed for user root
+Apr 14 16:09:01 labvm CRON[58011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:09:01 labvm CRON[58011]: pam_unix(cron:session): session closed for user root
+Apr 14 16:17:01 labvm CRON[58128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:17:01 labvm CRON[58128]: pam_unix(cron:session): session closed for user root
+Apr 14 16:30:01 labvm CRON[58237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:30:01 labvm CRON[58237]: pam_unix(cron:session): session closed for user root
+Apr 14 16:39:01 labvm CRON[58319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:39:01 labvm CRON[58319]: pam_unix(cron:session): session closed for user root
+Apr 15 06:39:01 labvm CRON[58944]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 06:39:01 labvm CRON[58944]: pam_unix(cron:session): session closed for user root
+Apr 15 07:09:01 labvm CRON[59292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:09:01 labvm CRON[59292]: pam_unix(cron:session): session closed for user root
+Apr 15 07:17:01 labvm CRON[59421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:17:01 labvm CRON[59421]: pam_unix(cron:session): session closed for user root
+Apr 15 07:30:01 labvm CRON[59515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:30:01 labvm CRON[59515]: pam_unix(cron:session): session closed for user root
+Apr 15 07:33:01 labvm CRON[59534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:33:01 labvm CRON[59534]: pam_unix(cron:session): session closed for user root
+Apr 15 07:39:01 labvm CRON[59596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:39:01 labvm CRON[59596]: pam_unix(cron:session): session closed for user root
+Apr 15 08:09:01 labvm CRON[59861]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:09:01 labvm CRON[59861]: pam_unix(cron:session): session closed for user root
+Apr 15 08:17:01 labvm CRON[59986]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:17:01 labvm CRON[59986]: pam_unix(cron:session): session closed for user root
+Apr 15 08:30:01 labvm CRON[60077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:30:01 labvm CRON[60077]: pam_unix(cron:session): session closed for user root
+Apr 15 08:39:01 labvm CRON[60156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:39:01 labvm CRON[60156]: pam_unix(cron:session): session closed for user root
+Apr 15 14:09:01 labvm CRON[60453]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:09:01 labvm CRON[60453]: pam_unix(cron:session): session closed for user root
+Apr 15 14:17:01 labvm CRON[60582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:17:01 labvm CRON[60582]: pam_unix(cron:session): session closed for user root
+Apr 15 14:30:01 labvm CRON[60693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:30:01 labvm CRON[60693]: pam_unix(cron:session): session closed for user root
+Apr 15 14:39:01 labvm CRON[60759]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:39:01 labvm CRON[60759]: pam_unix(cron:session): session closed for user root
+Apr 28 07:20:40 labvm sshd[861]: Server listening on 0.0.0.0 port 22.
+Apr 28 07:20:40 labvm sshd[861]: Server listening on :: port 22.
+Apr 28 07:20:44 labvm systemd-logind[845]: New seat seat0.
+Apr 28 07:20:44 labvm systemd-logind[845]: Watching system buttons on /dev/input/event0 (Power Button)
+Apr 28 07:20:44 labvm systemd-logind[845]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Apr 28 07:20:44 labvm systemd-logind[845]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Apr 28 07:21:50 labvm login[844]: pam_unix(login:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 28 07:21:57 labvm login[844]: pam_unix(login:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 28 07:22:03 labvm login[844]: pam_unix(login:session): session opened for user devasc by LOGIN(uid=0)
+Apr 28 07:22:03 labvm systemd-logind[845]: New session 1 of user devasc.
+Apr 28 07:22:04 labvm systemd: pam_unix(systemd-user:session): session opened for user devasc by (uid=0)
+Apr 28 07:22:45 labvm useradd[1888]: failed adding user 'vboxadd', data deleted
+Apr 28 07:22:45 labvm useradd[1889]: failed adding user 'vboxadd', data deleted
+Apr 28 04:22:58 labvm lightdm: pam_unix(lightdm-autologin:session): session opened for user devasc by (uid=0)
+Apr 28 04:22:58 labvm systemd-logind[845]: New session c1 of user devasc.
+Apr 28 04:23:14 labvm gnome-keyring-daemon[2367]: couldn't access control socket: /run/user/900/keyring/control: No such file or directory
+Apr 28 04:23:34 labvm gnome-keyring-daemon[2367]: The SSH agent was already initialized
+Apr 28 04:23:38 labvm gnome-keyring-daemon[2367]: The PKCS#11 component was already initialized
+Apr 28 04:23:39 labvm gnome-keyring-daemon[2367]: The Secret Service was already initialized
+Apr 28 04:23:42 labvm polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.46 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 28 04:34:04 labvm sudo:   devasc : TTY=pts/0 ; PWD=/home/devasc/DEPI-Digital-Forensics-Final-Project/week2 ; USER=root ; COMMAND=/usr/bin/cp /var/log/apache2/access.log* apache2_logs/
+Apr 28 04:34:04 labvm sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 28 04:34:04 labvm sudo: pam_unix(sudo:session): session closed for user root
+Apr 28 04:34:04 labvm sudo:   devasc : TTY=pts/0 ; PWD=/home/devasc/DEPI-Digital-Forensics-Final-Project/week2 ; USER=root ; COMMAND=/usr/bin/cp /var/log/apache2/error.log* apache2_logs/
+Apr 28 04:34:04 labvm sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 28 04:34:04 labvm sudo: pam_unix(sudo:session): session closed for user root
+Apr 28 04:34:23 labvm sudo:   devasc : TTY=pts/0 ; PWD=/home/devasc/DEPI-Digital-Forensics-Final-Project/week2 ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /var/log/auth.log.1 /var/log/auth.log.2.gz system_auth_logs/
+Apr 28 04:34:23 labvm sudo: pam_unix(sudo:session): session opened for user root by (uid=0)

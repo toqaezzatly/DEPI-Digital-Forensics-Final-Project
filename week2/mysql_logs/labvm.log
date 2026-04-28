@@ -1,0 +1,4 @@
+/usr/sbin/mysqld, Version: 10.3.39-MariaDB-0ubuntu0.20.04.2 (Ubuntu 20.04). started with:
+Tcp port: 3306  Unix socket: /run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+260311 16:59:42	    41 Query	SET GLOBAL log_output = 'TABLE'
