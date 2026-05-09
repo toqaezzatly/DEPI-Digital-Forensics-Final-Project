@@ -2,9 +2,7 @@
 **FORENSIC EXAMINATION REPORT**
 
 **Date:** May 9, 2026
-**Lab:** Cyber Sleuth Labs
-**Case Number:** CSL-2026-0428-HYBRID
-**Cyber Sleuth:** Toqa Ayman & Basmalla Atta
+** Digital Invistigators :** Toqa Ayman & Basmalla Atta
 
 ---
 
@@ -47,7 +45,7 @@ The investigator analyzed the Apache `access.log`, identifying a series of suspi
 **3. Brute Force and Network Validation:**
 Analysis of the `auth.log` revealed a high-volume "noise" pattern, characterized by hundreds of failed login attempts for the user "devasc" within a very narrow time window. This matched the pattern found in the web logs, where automated POST requests were sent to `/DVWA/login.php`. Using **Wireshark**, the network traffic confirmed these attempts, showing HTTP 302 redirect responses following the failed logins. The source IP remained consistent across all forensic sources, linking the web, system, and network activity to a single adversary persona.
 
----
+
 
 ### **Conclusion**
 The data examined indicates that the target server was subjected to a multi-stage attack involving reconnaissance, database exploitation, and credential harvesting. 
