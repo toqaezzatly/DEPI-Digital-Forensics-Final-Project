@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hybrid Forensic Investigation Report</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Space+Mono&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #05080a;
+            --panel-color: #0d1117;
+            --neon-green: #00ff9d;
+            --neon-blue: #00d9ff;
+            --neon-red: #ff3e3e;
+            --text-main: #e6edf3;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Space Mono', monospace;
+            overflow: hidden;
+        }
+
+        /* Scanline effect */
+        body::before {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 0; left: 0; bottom: 0; right: 0;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+            z-index: 200;
+            background-size: 100% 2px, 3px 100%;
+            pointer-events: none;
+        }
+
+        .slide-container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+
+        .slide {
+            min-width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 4rem;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            text-shadow: 0 0 20px var(--neon-blue);
+            color: var(--neon-blue);
+        }
+
+        h2 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: var(--neon-green);
+            border-bottom: 2px solid var(--neon-green);
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+
+        .instructor-tag {
+            font-size: 1.5rem;
+            color: var(--neon-red);
+            margin-top: 50px;
+            font-weight: bold;
+        }
+
+        .investigators {
+            font-size: 1.2rem;
+            margin-top: 20px;
+            color: var(--text-main);
+            background: rgba(0, 217, 255, 0.1);
+            padding: 15px 30px;
+            border-radius: 5px;
+            border: 1px solid var(--neon-blue);
+        }
+
+        .content-box {
+            background: var(--panel-color);
+            border: 2px solid #30363d;
+            border-left: 5px solid var(--neon-blue);
+            padding: 30px;
+            max-width: 900px;
+            text-align: left;
+            box-shadow: 10px 10px 0px rgba(0,0,0,0.5);
+        }
+
+        ul {
+            font-size: 1.4rem;
+            line-height: 1.8;
+        }
+
+        code {
+            background: #000;
+            color: var(--neon-green);
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 1.1rem;
+        }
+
+        .controls {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 300;
+            display: flex;
+            gap: 15px;
+        }
+
+        button {
+            background: transparent;
+            border: 2px solid var(--neon-blue);
+            color: var(--neon-blue);
+            padding: 15px 25px;
+            cursor: pointer;
+            font-family: 'Orbitron', sans-serif;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background: var(--neon-blue);
+            color: black;
+            box-shadow: 0 0 15px var(--neon-blue);
+        }
+
+        .progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 5px;
+            background: var(--neon-green);
+            z-index: 400;
+            transition: width 0.3s;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 1.1rem;
+        }
+
+        th, td {
+            border: 1px solid #30363d;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background: rgba(0, 255, 157, 0.1);
+            color: var(--neon-green);
+        }
+
+        .highlight { color: var(--neon-red); font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="progress-bar" id="progress"></div>
+
+    <div class="slide-container" id="slider">
+        
+        <!-- Slide 1: Title -->
+        <section class="slide">
+            <p style="color: var(--neon-green);">[ INITIALIZING SECURE SESSION... ]</p>
+            <h1>Hybrid Forensic Investigation</h1>
+            <p style="font-size: 1.8rem;">Multi-Stage Cyber Attack Simulation & Analysis</p>
+            
+            <div class="investigators">
+                <strong>INVESTIGATORS:</strong><br>
+                Toqa Ayman | Basmalla Atta | Bassam Sabry
+            </div>
+
+            <div class="instructor-tag">
+                INSTRUCTOR: Eng. Hasnaa Alwani
+            </div>
+        </section>
+
+        <!-- Slide 2: Objectives -->
+        <section class="slide">
+            <h2>01. Mission Objectives</h2>
+            <div class="content-box">
+                <ul>
+                    <li><span class="highlight">Simulate:</span> Advanced SQL Injection & Brute Force attacks.</li>
+                    <li><span class="highlight">Acquire:</span> Multi-source evidence (Apache, MySQL, System Logs).</li>
+                    <li><span class="highlight">Analyze:</span> Correlate network PCAPs with host-based artifacts.</li>
+                    <li><span class="highlight">Prove:</span> Establish a clear "Chain of Custody" and Attack Timeline.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Slide 3: Lab Architecture -->
+        <section class="slide">
+            <h2>02. System Architecture</h2>
+            <div class="content-box">
+                <p><strong>Node A: The Adversary (Windows)</strong> - Burp Suite / Nmap</p>
+                <p style="text-align: center; color: var(--neon-blue);">⬇ <i>Traffic Flow</i> ⬇</p>
+                <p><strong>Node B: The Victim (Ubuntu)</strong> - DVWA / Apache / MariaDB</p>
+                <p style="text-align: center; color: var(--neon-blue);">⬇ <i>Evidence Extraction</i> ⬇</p>
+                <p><strong>Node C: The Investigator (Kali)</strong> - Wireshark / Zeek / Grep</p>
+            </div>
+        </section>
+
+        <!-- Slide 4: Attack Simulation -->
+        <section class="slide">
+            <h2>03. Attack Vectors</h2>
+            <div style="display: flex; gap: 20px;">
+                <div class="content-box" style="border-left-color: var(--neon-red);">
+                    <h3 style="color: var(--neon-red);">SQL Injection</h3>
+                    <p>Payload: <code>' union select user(), database() --</code></p>
+                    <p>Target: Database Metadata Exfiltration.</p>
+                </div>
+                <div class="content-box" style="border-left-color: var(--neon-red);">
+                    <h3 style="color: var(--neon-red);">Brute Force</h3>
+                    <p>Method: Automated Dictionary Attack (400 Requests).</p>
+                    <p>Goal: Identifying valid credentials via 302 Redirects.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 5: Evidence Inventory -->
+        <section class="slide">
+            <h2>04. Forensic Evidence Collected</h2>
+            <div class="content-box">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Artifact</th>
+                            <th>Source</th>
+                            <th>Purpose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>access.log</code></td>
+                            <td>Apache2</td>
+                            <td>URI & IP Identification</td>
+                        </tr>
+                        <tr>
+                            <td><code>auth.log</code></td>
+                            <td>System</td>
+                            <td>Brute Force Volume Proof</td>
+                        </tr>
+                        <tr>
+                            <td><code>labvm.log</code></td>
+                            <td>MySQL</td>
+                            <td>Injected Query Execution</td>
+                        </tr>
+                        <tr>
+                            <td><code>capture.pcap</code></td>
+                            <td>Network</td>
+                            <td>Raw Packet Validation</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Slide 6: Correlation & Analysis -->
+        <section class="slide">
+            <h2>05. Correlation Results</h2>
+            <div class="content-box">
+                <p><strong>Attacker IP:</strong> <span class="highlight">192.168.56.103</span></p>
+                <p><strong>Correlation Summary:</strong></p>
+                <ul style="font-size: 1.1rem;">
+                    <li>Timestamps in <strong>Apache logs</strong> perfectly match <strong>TCP Stream</strong> timestamps in Wireshark.</li>
+                    <li>High frequency of "Failed Password" in <strong>auth.log</strong> correlates with 400 POST requests in web logs.</li>
+                    <li>Successful SQLi confirmed by checking <strong>MySQL Query Logs</strong> against the PCAP payload.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Slide 7: Conclusion -->
+        <section class="slide">
+            <h2>06. Final Findings</h2>
+            <div class="content-box" style="border-left-color: var(--neon-green);">
+                <p>✅ <strong>Successful Recovery:</strong> All attack stages were reconstructed.</p>
+                <p>✅ <strong>Vulnerability Identified:</strong> Lack of Input Validation & Rate Limiting.</p>
+                <p>✅ <strong>Recommendation:</strong> Deploy <i>Fail2Ban</i> and implement <i>Parameterized Queries</i>.</p>
+            </div>
+            <div class="instructor-tag" style="margin-top: 30px;">
+                PRESENTATION COMPLETE.
+            </div>
+        </section>
+
+    </div>
+
+    <div class="controls">
+        <button onclick="moveSlide(-1)">PREV</button>
+        <button onclick="moveSlide(1)">NEXT</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const slider = document.getElementById('slider');
+        const progress = document.getElementById('progress');
+
+        function updateSlide() {
+            slider.style.transform = `translateX(-${currentSlide * 100}vw)`;
+            progress.style.width = `${((currentSlide + 1) / slides.length) * 100}%`;
+        }
+
+        function moveSlide(direction) {
+            currentSlide += direction;
+            if (currentSlide < 0) currentSlide = 0;
+            if (currentSlide >= slides.length) currentSlide = slides.length - 1;
+            updateSlide();
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') moveSlide(1);
+            if (e.key === 'ArrowLeft') moveSlide(-1);
+        });
+
+        // Initialize progress bar
+        updateSlide();
+    </script>
+</body>
+</html>
