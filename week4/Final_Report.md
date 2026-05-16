@@ -3,7 +3,7 @@
 
 **Date:** May 9, 2026
 
-**Digital Investigators :** Toqa Ayman | Basmalla Atta | Basssam Sabary
+**Digital Investigators :** Toqa Ayman | Basmalla Atta | Bassam Sabary
 
 ---
 
