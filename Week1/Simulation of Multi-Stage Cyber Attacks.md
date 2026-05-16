@@ -4,7 +4,7 @@
 **Project Title:** Hybrid Network & Web Forensic Investigation of a Multi-Stage Cyber Attack  
 **Phase:** Week 1 - Evidence Acquisition & Traffic Generation  
 **Date:** March 11, 2026  
-**Investigators:** Toqa Ayman & Basmalla Atta
+**Investigators:** Toqa Ayman | Basmalla Atta | Bassam Sabry
 **Target IP:** 192..1 (Ubuntu Server)  
 **Attacker IP:** 192..1 (Windows Host)
 
