@@ -1,7 +1,7 @@
 # Week 2 Report: Attack Simulation & Evidence Acquisition
 **Project:** Hybrid Network & Web Forensic Investigation  
 **Focus:** Generating Malicious Artifacts and Multi-Source Log Collection  
-**Investigator:** [Toqa Ayman & Basmalla Atta]  
+**Investigator:** Toqa Ayman | Basmalla Atta | Bassam Sabry
 **Date:** April 28, 2026
 
 ---
